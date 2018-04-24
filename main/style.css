@@ -1,0 +1,44 @@
+header{
+  background-color: yellow;
+  border: 1px solid: black;
+  text-align: center;
+  padding: 1px;
+  margin: 1px;
+  font-size: 35px;
+}
+footer{
+  background-color: yellow;
+  border: 1px solid: black;
+  text-align: center;
+  padding: 1;
+  margin: 1;
+  font-size: 35px;
+}
+footer a{
+  color: purple;
+}
+div{
+  border: 1px solid black;
+  left: 50px;
+  height: 30%;
+  width: 33.333%;
+  box-sizing: border-box;
+  text-align: center: 20px;
+  padding: 35px;
+  margin: 15px;
+}
+.div_padre{
+  height: 400%;
+  width:  100%;
+  background-color: white;
+}
+#img1{
+
+}
+#img2{
+
+}
+body{
+  padding: 10px 10px;
+  border: 1px solid black;
+}
